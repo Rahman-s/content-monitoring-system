@@ -1,0 +1,26 @@
+[
+    {
+        "title": "Learn Django Fast",
+        "source": "Blog A",
+        "body": "Django is a powerful Python framework for building web applications.",
+        "last_updated": "2026-03-25T16:00:00Z"
+    },
+    {
+        "title": "Python Automation Guide",
+        "source": "Blog B",
+        "body": "This article explains automation scripts using Python for daily tasks.",
+        "last_updated": "2026-03-20T11:00:00Z"
+    },
+    {
+        "title": "Cooking Tips for Beginners",
+        "source": "Blog C",
+        "body": "Simple recipes and cooking tricks for new learners.",
+        "last_updated": "2026-03-20T09:30:00Z"
+    },
+    {
+        "title": "Data Pipeline Basics",
+        "source": "Blog D",
+        "body": "An introduction to data pipeline systems and processing workflows.",
+        "last_updated": "2026-03-20T12:00:00Z"
+    }
+]
